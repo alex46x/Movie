@@ -1,0 +1,5 @@
+{
+  "name": "CineStream & Download Hub",
+  "description": "A comprehensive movie and TV series download portal featuring a public browsing catalog and a secured admin panel for content management. Includes AI-powered content description generation.",
+  "requestFramePermissions": []
+}
